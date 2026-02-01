@@ -3,7 +3,7 @@
 본 저장소는 YOLO26 모델을 이용한 객체 탐지 실험 결과를 정리한 레포지토리입니다.  
 학습된 모델 가중치 파일과 실험 설정 값 그리고 결과 시각화를 위한 HTML 페이지를 포함하고 있습니다.
 
-결과 페이지: https://아이디.github.io/저장소이름/
+결과 페이지: (https://github.com/schyuks/Pothole_project/blob/main/Pothole.ipynb)
 
 ---
 
